@@ -18,3 +18,5 @@ I'm interested in software engineering roles focused on backend services, cloud 
 - **Languages and frameworks** — Python, TypeScript, React, Node.js, SQL
 - **Infrastructure** — Docker, Kubernetes, GitHub Actions, AWS
 - **Engineering** — API development, authentication, integration testing, CI/CD, production debugging
+
+- **SIEM and defensive cybersecurity** — Security log analysis, event monitoring, alert triage, incident investigation, and network traffic analysis through hands-on home-lab projects.
